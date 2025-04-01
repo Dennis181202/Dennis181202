@@ -1,20 +1,15 @@
-## Hi there 👋 I'm Dennis
+# 💫 About Me:
+## Hi there 👋 I'm Dennis<br><br>### 🚀 About Me  <br>I am a passionate software developer working at a company that specializes in hail damage scanners for cars. My primary focus is on **C++**, but I also work with **HTML, CSS, and TypeScript** from time to time.  <br><br>Additionally, I am currently pursuing an **IT specialist apprenticeship in application development**, which I will complete in 2026. As part of my training, I also work with **C#**.<br><br>### 🔧 Tech Stack  <br>- **Primary:** C++  <br>- **Other Technologies:** C#, HTML, CSS, TypeScript  <br>- **Tools & Frameworks:** OpenCV, ImGui, WPF  <br><br>### 💡 Interests  <br>- High-performance and real-time computing  <br>- Graphics programming (OpenGL)  <br><br>### 📫 How to Reach Me  <br>- GitHub: [Dennis181202](https://github.com/Dennis181202)  <br>
 
-### 🚀 About Me  
-I am a passionate software developer working at a company that specializes in hail damage scanners for cars. My primary focus is on **C++**, but I also work with **HTML, CSS, and TypeScript** from time to time.  
 
-Additionally, I am currently pursuing an **IT specialist apprenticeship in application development**, which I will complete in 2026. As part of my training, I also work with **C#**.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dennis181202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dennis181202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis181202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔧 Tech Stack  
-- **Primary:** C++  
-- **Other Technologies:** C#, HTML, CSS, TypeScript  
-- **Tools & Frameworks:** OpenCV, ImGui, WPF  
+---
+[![](https://visitcount.itsvg.in/api?id=Dennis181202&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💡 Interests  
-- High-performance and real-time computing  
-- Graphics programming (OpenGL)  
-
-### 📫 How to Reach Me  
-- GitHub: [Dennis181202](https://github.com/Dennis181202)  
-
-Let's build something great together! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
